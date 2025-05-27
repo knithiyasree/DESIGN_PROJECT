@@ -284,7 +284,8 @@ Step 2 : Creating an SDC File
 Step 3 : Performing Synthesis
 RTL Simulation:
 
-![Screenshot (240)](https://github.com/user-attachments/assets/70c00b7d-1413-4efb-993e-281effc648e4)
+![WhatsApp Image 2025-05-27 at 14 56 14_f909b88a](https://github.com/user-attachments/assets/76aacb99-4aae-47bf-abd8-1dfa33ae2b22)
+
 
 Synthesis RTL Schematic:
 ![Screenshot 2025-05-27 134915](https://github.com/user-attachments/assets/e3dac8e7-4f9c-43f3-aaaa-724abf7c6609)
